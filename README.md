@@ -1,16 +1,70 @@
-# React + Vite
+## Social Links Profile - Orange-Grey Edition 🧡🖤
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was my personalized touch of the Frontend Mentor "Social Links Profile" challenge. I maintained the default card layout, but customized the design using my own color palette! I experimented with different styles and it was a very hard decision settling with just one 😅.
 
-Currently, two official plugins are available:
+## ✨ Demo Preview
+<div align="center">
+  <img src="https://s6.ezgif.com/tmp/ezgif-616eb8fc45ea2715.gif" alt="Social Links Profile Card Demo" width="600" />
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🏆 The Challenge
+Users should be able to
+- View the project centered on the page
+- See a clean, responsive layout of a social profile card layout
+- Orange-grey color scheme with subtle box-shadows, transitions, and other effects 🧡🖤 
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎉 Features
+- Social profile card that includes:
+  - 🧩 Avatar image wrapped with a conic gradient frame
+  - 🧩 Display name
+  - 🧩 Location
+  - 🧩 Short description
+  - 🧩 Social links + matching icons
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🫆 Interactive Card Selection
+- Hovering over the card and clicking each social button will:
+  - Add a subtle orange box-shadow with a gentle, smooth transition
+  - Navigate to the respective link in a seperate tab via _target
+respectively
+ ---
+ 
+## 📱 Fully Responsive Layout
+Card automatically wrap and accommodate to a fluid size, and stay centered using display: flex.
+
+---
+
+## 🛠️ Tools
+- React (Vite)
+- React-Icons (Font-Awesome)
+- CSS3 (custom theme styles + fonts + responsive layout)
+- JavaScript (ES6+)
+
+---
+
+## 🧠 What I Learned
+- Creating responsive, centered layouts
+- Using inline-flex + conic gradients for avatar framing
+- Opening external links safely using target="_blank" + rel="noopener noreferrer"
+
+---
+
+## 🔗 Links
+- **Frontend Mentor Challenge**: https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
+- **Live Demo**: https://axacodes-social-links-profile.netlify.app/
+- **GitHub Repo**: https://github.com/AaX003/social-profile-frontend
+
+---
+
+## 💛 Author
+Connect with me:
+- **GitHub**: https://github.com/AaX003
+- **LinkedIn**: https://www.linkedin.com/in/aaxanah-hill-79991431a
+- **YouTube**: https://youtube.com/@axacodes
+
+---
+## 💛 Acknowledgments
+Thanks to Frontend Mentor for the challenge--this concept was super simple but a lot of fun and still helpful to my frontend skills!
