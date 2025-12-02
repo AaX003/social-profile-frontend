@@ -30,7 +30,6 @@ body {
   text-align: center;
   background: var(--bg);
   font-family: 'Inter-VariableFont', sans-serif;
-  overflow: hidden;
 }
 
 /* main container */
@@ -171,6 +170,8 @@ body {
 /* attribution */
 .attribution {
   color: var(--muted);
+  text-wrap: balance;
+  max-width: 40ch;
 }
 
 .attribution a {
