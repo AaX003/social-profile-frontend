@@ -3,9 +3,7 @@
 This project was my personalized touch of the Frontend Mentor "Social Links Profile" challenge. I maintained the default card layout, but customized the design using my own color palette! I experimented with different styles and it was a very hard decision settling with just one 😅.
 
 ## ✨ Demo Preview
-<div align="center">
-  <img src="https://s6.ezgif.com/tmp/ezgif-616eb8fc45ea2715.gif" alt="Social Links Profile Card Demo" width="600" />
-</div>
+(I will add one back soon)
 
 ## 🏆 The Challenge
 Users should be able to
